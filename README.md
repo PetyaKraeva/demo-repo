@@ -1,3 +1,3 @@
-# demo-repositori
+# demo-repository
 
-This is demo-repository for my QA course. 
+This is demo repository for my QA course. 
